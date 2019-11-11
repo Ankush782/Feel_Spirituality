@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "909154883977",
+    "firebase_url": "https://liftpay-a8418.firebaseio.com",
+    "project_id": "liftpay-a8418",
+    "storage_bucket": "liftpay-a8418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909154883977:android:38f834d4221972ae95e958",
+        "android_client_info": {
+          "package_name": "com.dsss.ankush.liftpaymaintainance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909154883977-rppomnktdnffft2c19oqqi4qu7f4taak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dsss.ankush.liftpaymaintainance",
+            "certificate_hash": "2c5ece87e26e4f0014decf766557614d27ff6f7a"
+          }
+        },
+        {
+          "client_id": "909154883977-m4te0d257t5b7n3jsm9bnrm4v1839aga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzqoRi7v8o-v7RjYFB2Sn0ig1XpWZOhlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909154883977-m4te0d257t5b7n3jsm9bnrm4v1839aga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

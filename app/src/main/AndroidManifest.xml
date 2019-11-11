@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dsss.ankush.liftpaymaintainance">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".register" />
+        <activity android:name=".companies" />
+        <activity android:name=".AddContact" />
+        <activity android:name=".notice" />
+        <activity android:name=".members" />
+        <activity android:name=".securitygaurd" />
+        <activity android:name=".SubCategory" />
+        <activity android:name=".Hymns" />
+        <activity android:name=".Hymn" />
+        <activity
+            android:name=".Main"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".SavedHymns" />
+        <activity android:name=".SavedHymnShow" />
+        <activity android:name=".Histor"></activity>
+    </application>
+
+</manifest>
